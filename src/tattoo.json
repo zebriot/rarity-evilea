@@ -1,0 +1,63 @@
+[
+    {
+      "value": "",
+      "label": "Tattoo",
+      "count": "Count"
+    },
+    {
+      "value": "Style 1",
+      "label": "Style 1",
+      "count": "138"
+    },
+    {
+      "value": "Style 2",
+      "label": "Style 2",
+      "count": "119"
+    },
+    {
+      "value": "Style 3",
+      "label": "Style 3",
+      "count": "162"
+    },
+    {
+      "value": "Style 4",
+      "label": "Style 4",
+      "count": "125"
+    },
+    {
+      "value": "Style 5",
+      "label": "Style 5",
+      "count": "163"
+    },
+    {
+      "value": "Earth",
+      "label": "Earth",
+      "count": "1"
+    },
+    {
+      "value": "Fire",
+      "label": "Fire",
+      "count": "1"
+    },
+    {
+      "value": "Half Natural",
+      "label": "Half Natural",
+      "count": "1"
+    },
+    {
+      "value": "Natural",
+      "label": "Natural",
+      "count": "1"
+    },
+    {
+      "value": "Water",
+      "label": "Water",
+      "count": "1"
+    },
+    {
+      "value": "Wind",
+      "label": "Wind",
+      "count": "1"
+    }
+  ]
+  

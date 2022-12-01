@@ -1,0 +1,97 @@
+[
+    {
+        "value": "713",
+        "label": "MOUTH",
+        "count": "Count"
+    },
+    {
+        "value": "Wild",
+        "label": "Wild",
+        "count": "79"
+    },
+    {
+        "value": "Leaf",
+        "label": "Leaf",
+        "count": "65"
+    },
+    {
+        "value": "Smile Light",
+        "label": "Smile Light",
+        "count": "62"
+    },
+    {
+        "value": "Smile Dark",
+        "label": "Smile Dark",
+        "count": "58"
+    },
+    {
+        "value": "Wind",
+        "label": "Wind",
+        "count": "55"
+    },
+    {
+        "value": "Earth",
+        "label": "Earth",
+        "count": "53"
+    },
+    {
+        "value": "Dagger",
+        "label": "Dagger",
+        "count": "49"
+    },
+    {
+        "value": "Pierced",
+        "label": "Pierced",
+        "count": "47"
+    },
+    {
+        "value": "Blue Blood",
+        "label": "Blue Blood",
+        "count": "46"
+    },
+    {
+        "value": "Joint",
+        "label": "Joint",
+        "count": "43"
+    },
+    {
+        "value": "Lick",
+        "label": "Lick",
+        "count": "42"
+    },
+    {
+        "value": "Bubble Gum",
+        "label": "Bubble Gum",
+        "count": "41"
+    },
+    {
+        "value": "Chilly",
+        "label": "Chilly",
+        "count": "40"
+    },
+    {
+        "value": "Cigar",
+        "label": "Cigar",
+        "count": "29"
+    },
+    {
+        "value": "Fire",
+        "label": "Fire",
+        "count": "1"
+    },
+    {
+        "value": "Half Natural",
+        "label": "Half Natural",
+        "count": "1"
+    },
+    {
+        "value": "Natural",
+        "label": "Natural",
+        "count": "1"
+    },
+    {
+        "value": "Water",
+        "label": "Water",
+        "count": "1"
+    }
+]
